@@ -5,5 +5,6 @@ city="delhi";
 
 /*
 use only let and const because var has scope problem */
-
+emailid="shalusondhi"
 console.table([emailid,account,password,city]);
+
